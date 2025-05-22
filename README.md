@@ -34,7 +34,7 @@ This entire setup is based on the `Default Dark +` VSCode Theme.
 - **Live Preview** (*Microsoft*)
 
 ### Manual Changes
-- Set the `Availability: Quick Input Position` to `Center`
+- Set the `Quick Input Position` to `Center` by navigating to `Customize Layout` in the Command Palette
 - Set up a Git Blame extension (your preffered style—inline or on the status bar)
 
 ## Done!
