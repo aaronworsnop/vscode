@@ -1,0 +1,135 @@
+{
+    "editor.minimap.showSlider": "always",
+    "workbench.editor.empty.hint": "hidden",
+    "workbench.sideBar.location": "right",
+    "editor.minimap.side": "right",
+    "remote.autoForwardPortsSource": "hybrid",
+    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorCustomizations": {
+        "editorBracketHighlight.foreground1": "#b8ff5b", // Color of the first bracket pair in the editor
+        "editorBracketHighlight.foreground2": "#f181e2", // Color of the second bracket pair in the editor
+        "editorBracketHighlight.foreground3": "#00b7ff", // Color of the third bracket pair in the editor
+        "editorBracketHighlight.foreground4": "#b8ff5b", // Color of the fourth bracket pair in the editor
+        "editorBracketHighlight.foreground5": "#f181e2", // Color of the fifth bracket pair in the editor
+        "editorBracketHighlight.foreground6": "#00b7ff", // Color of the sixth bracket pair in the editor
+        "editorBracketHighlight.foreground7": "#ffffff", // Color of the seventh bracket pair in the editor
+        "editorBracketHighlight.foreground8": "#ffffff", // Color of the eighth bracket pair in the editor
+        "editorBracketMatch.background": "#ffffff17", // Background color for matching brackets
+        "menu.selectionBackground": "#ffffff25", // Background color of the selected menu item
+        "menu.border": "#00000000", // Transparent border to effectively hide it
+        "menu.background": "#313233", // Background color of the menu bar
+        "menu.foreground": "#d6d6d6", // Color of menu item text
+        "titleBar.activeForeground": "#d6d6d6", // White text color for the active title bar
+        "statusBar.background": "#3c3c3c", // Background color of the status bar
+        "statusBar.foreground": "#f0f0f0", // Text color in the status bar
+        "statusBar.noFolderBackground": "#2d88ff", // Background color of the status bar when no folder is open
+        "statusBarItem.remoteBackground": "#2d88ff", // Background color of the remote host status bar item
+        "editor.selectionBackground": "#40c6ff34", // Background color of the selected text
+        "editor.lineHighlightBorder": "#c4fffc10", 
+        "peekViewEditor.background": "#222a2e", // Background color of the peek view editor
+        "quickInput.foreground": "#d6d6d6",
+        "quickInputList.focusBackground": "#ffffff25",
+        "quickInputList.focusForeground": "#f0f0f0",
+        "quickInputList.focusIconForeground" : "#f0f0f0",
+        "list.hoverBackground": "#ffffff10", // Background color of the hovered list item
+
+        "list.activeSelectionBackground": "#ffffff20", // Background color of the active list item
+        "list.inactiveSelectionBackground": "#ffffff20", // Background color of the inactive list item
+        
+        "list.focusOutline": "#ffffff99", // Transparent border to effectively hide it
+        "focusBorder": "#ffffff",
+    },
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "string",
+                    "string.quoted",
+                    "string.quoted.double",
+                    "string.quoted.single"
+                ],
+                "settings": {
+                    "foreground": "#6fb467"
+                }
+            },
+            {
+                "scope": [
+                    "variable",
+                ],
+                "settings": {
+                    "foreground": "#8eeeff"
+                }
+            },
+            {
+                "scope": [
+                    "comment",
+                    "comment.block",
+                    "comment.line"
+                ],
+                "settings": {
+                    "foreground": "#ffffff80"
+                }
+            },
+            {
+                "scope": [
+                    "entity.name.class",
+                    "entity.name.type.class",
+                    "entity.name.type.interface",
+                    "entity.name.type.enum",
+                    "storage.type",
+                    "support.type",
+                ],
+                "settings": {
+                    "foreground": "#3ce2c9"
+                }
+            },
+            {
+                "scope": [
+                    "entity.name.function"
+                ],
+                "settings": {
+                    "foreground": "#fff5f5"
+                }
+            },
+            {
+                "scope": [
+                    "keyword",
+                    "keyword.control",
+                    "keyword.other"
+                ],
+                "settings": {
+                    "foreground": "#f181e2"
+                }
+            }
+        ]
+    },
+    "workbench.startupEditor": "none",
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": false,
+    "todohighlight.keywordsPattern": "TODO:",
+    "todohighlight.defaultStyle": {
+        "color": "#171a26",
+        "backgroundColor": "#00ffb7",
+        "overviewRulerColor": "#ffab00",
+        "borderRadius": "2px",
+        "isWholeLine": false,
+    },
+    "[css]": {
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "denoland.vscode-deno"
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "material-icon-theme.folders.color": "#90a4ae",
+    "material-icon-theme.folders.theme": "specific",
+    "material-icon-theme.opacity": 0.8,
+    "material-icon-theme.saturation": 1,
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.iconTheme": "material-icon-theme",
+}
