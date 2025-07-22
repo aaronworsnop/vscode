@@ -1,4 +1,6 @@
 # My VSCode Setup
+`3+ active users 🤯`  
+  
 There's nothing too special to see here—just my own personal mix-up of extensions, icon-packs and more intricate color-theme customisations. It's a really clean and basic foundation (mainly focused on aesthetics) that you can build on—perfect for anyone who wishes VSCode was just a *littleeee* 🤏 more clean. (This is quite close to stock VSCode, because stock VSCode is honestly pretty good.)
 
 ## Notable Features
