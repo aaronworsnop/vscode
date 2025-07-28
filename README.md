@@ -13,6 +13,7 @@ There's nothing too special to see here—just my own personal mix-up of extensi
   - `CTRL + TAB`/`CTRL + SHIFT + TAB` moves to next/previous tab instead of most recent/least recent tab
   - For me, this finally made tab-switching in VSCode useable. 
 - Right-aligned side/activity bar to prevent your code shifting when opening your File Explorer etc.
+- Smooth caret movement (like in Microsoft Word)
 - Nicer icons
 - Pretty error messages
 
@@ -42,6 +43,7 @@ This entire setup is based on the `Default Dark +` VSCode Theme.
 ### Manual Changes
 - Set the `Quick Input Position` to `Center` by navigating to `Customize Layout` in the Command Palette
 - Set up a Git Blame extension (your preffered style—inline or on the status bar)
+- Change the editor setting `Cursor Smooth Caret Animation` to `on`.
 
 ## Done!
 **See, don't your colours and menus look that little bit more polished now?** 😉  
