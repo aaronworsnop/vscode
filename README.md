@@ -14,12 +14,13 @@ There's nothing too special to see here—just my own personal mix-up of extensi
   - For me, this finally made tab-switching in VSCode useable. 
 - Right-aligned side/activity bar to prevent your code shifting when opening your File Explorer etc.
 - Smooth caret movement (like in Microsoft Word)
+- Pretty error messages and better error visibility
+- TODO highlighting
 - Nicer icons
-- Pretty error messages
 
 ![image](https://github.com/user-attachments/assets/8d3af6a5-d0b0-4d25-9128-009748e984e6)
 ![image](https://github.com/user-attachments/assets/386f03ec-2197-4417-a661-abefcaf43b11)
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8de1d7f3-6c28-4a70-af5c-adb5308b1825" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/70978419-bf9f-4e97-9e3f-13afbf6af8f7" />
 
 
 ## Setup
@@ -35,7 +36,6 @@ This entire setup is based on the `Default Dark +` VSCode Theme.
   - Toggle Folder Arrows: Off
   - Change Opacity: 0.8
 - **Error Lens** (*Alexander*)
-- **TODO Highlight v2** (*Jonathan Clark*)
 - **vscode-pdf** (*tomoki1207*)
 - **GitHub Copilot** (*GitHub*)
 - **Live Preview** (*Microsoft*)
