@@ -13,7 +13,8 @@ There's nothing too special to see here—just my own personal mix-up of extensi
   - `CTRL + TAB`/`CTRL + SHIFT + TAB` moves to next/previous tab instead of most recent/least recent tab
   - For me, this finally made tab-switching in VSCode useable. 
 - Right-aligned side/activity bar to prevent your code shifting when opening your File Explorer etc.
-- Smooth caret movement (like in Microsoft Word)
+- Smooth caret movement(like in Microsoft Word)
+- Smooth caret blinking
 - Pretty error messages and better error visibility
 - TODO highlighting
 - Nicer icons
