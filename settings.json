@@ -118,12 +118,13 @@
         "editor.defaultFormatter": "denoland.vscode-deno"
     },
     "[html]": {
-        "editor.defaultFormatter": "denoland.vscode-deno"
+        "editor.defaultFormatter": "denoland.vscode-deno",
+        "editor.fontLigatures": false
     },
     "github.copilot.enable": {
-        "*": false,
-        "plaintext": false,
-        "markdown": false,
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
         "scminput": false
     },
     "material-icon-theme.folders.color": "#90a4ae",
@@ -132,4 +133,12 @@
     "material-icon-theme.saturation": 1,
     "material-icon-theme.hidesExplorerArrows": true,
     "workbench.iconTheme": "material-icon-theme",
+
+    "editor.fontFamily": "Fira Code",
+    "editor.fontSize": 13.5,
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorBlinking": "phase",
+    "debug.showBreakpointsInOverviewRuler": true,
+    // "editor.fontLigatures": true
 }
