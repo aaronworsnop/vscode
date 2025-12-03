@@ -44,7 +44,6 @@ This entire setup is based on the `Default Dark +` VSCode Theme.
 ### Manual Changes
 - Set the `Quick Input Position` to `Center` by navigating to `Customize Layout` in the Command Palette
 - Set up a Git Blame extension (your preffered style—inline or on the status bar)
-- Change the editor setting `Cursor Smooth Caret Animation` to `on`.
 
 ## Done!
 **See, don't your colours and menus look that little bit more polished now?** 😉  
