@@ -33,7 +33,7 @@ To configure your VSCode according to this setup...
 This entire setup is based on the `Default Dark +` VSCode Theme. 
 
 ### Extensions
-- **Material Icon Theme**
+- **Material Icon Theme** (*Phillip Kief*)
   - Toggle Folder Arrows: Off
   - Change Opacity: 0.8
 - **Error Lens** (*Alexander*)
