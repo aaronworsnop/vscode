@@ -4,7 +4,7 @@
     "workbench.sideBar.location": "right",
     "editor.minimap.side": "right",
     "remote.autoForwardPortsSource": "hybrid",
-    "workbench.colorTheme": "Default Dark+",
+    "workbench.colorTheme": "Dark+",
     "workbench.colorCustomizations": {
         "editorBracketHighlight.foreground1": "#b8ff5b", // Color of the first bracket pair in the editor
         "editorBracketHighlight.foreground2": "#f181e2", // Color of the second bracket pair in the editor
@@ -122,7 +122,7 @@
         "editor.fontLigatures": false
     },
     "github.copilot.enable": {
-        "*": true,
+        "*": false,
         "plaintext": true,
         "markdown": true,
         "scminput": false
@@ -140,5 +140,15 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.cursorBlinking": "phase",
     "debug.showBreakpointsInOverviewRuler": true,
+    "[csharp]": {
+        "editor.maxTokenizationLineLength": 2500,
+        "editor.formatOnType": true
+    },
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "chat.viewSessions.orientation": "stacked",
+    "svelte.enable-ts-plugin": true,
+    "claudeCode.preferredLocation": "panel",
+    "github.copilot.nextEditSuggestions.eagerness": "auto",
+    "workbench.experimental.modernUI": false,
     // "editor.fontLigatures": true
 }
