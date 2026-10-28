@@ -34,16 +34,13 @@ This entire setup is based on the `Default Dark +` VSCode Theme.
 
 ### Extensions
 - **Material Icon Theme** (*Phillip Kief*)
-  - Toggle Folder Arrows: Off
-  - Change Opacity: 0.8
 - **Error Lens** (*Alexander*)
 - **vscode-pdf** (*tomoki1207*)
-- **GitHub Copilot** (*GitHub*)
 - **Live Preview** (*Microsoft*)
 
 ### Manual Changes
 - Set the `Quick Input Position` to `Center` by navigating to `Customize Layout` in the Command Palette
-- Set up a Git Blame extension (your preffered style—inline or on the status bar)
+- Set up a Git Blame extension (configure for the status bar)
 
 ## Done!
 **See, don't your colours and menus look that little bit more polished now?** 😉  
